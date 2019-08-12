@@ -1,0 +1,1 @@
+from baike_spider import html_downloader,html_outputer,html_parser,spider_main,url_manager
